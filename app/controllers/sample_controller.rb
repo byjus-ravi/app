@@ -1,5 +1,6 @@
 class SampleController<ApplicationController
     def index
+        puts "Added new code"
         puts "Index page is called"
     end
     def about
